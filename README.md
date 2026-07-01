@@ -8,7 +8,7 @@ The project includes both a **command-line interface (CLI)** and a simple **Tkin
 
 View the project working mechanism here:
 
-[Hospital Management System](https://portfolio-seven-drab-14.vercel.app/)
+[Hospital Management System](https://youtu.be/r7nsyKeEwng)
 
 ## About the Project
 
