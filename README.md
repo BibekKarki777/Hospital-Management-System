@@ -4,6 +4,12 @@ A Python-based Hospital Management System developed using **Object-Oriented Prog
 
 The project includes both a **command-line interface (CLI)** and a simple **Tkinter graphical user interface (GUI)**.
 
+## Live Demo
+
+View the project working mechanism here:
+
+[Hospital Management System](https://portfolio-seven-drab-14.vercel.app/)
+
 ## About the Project
 
 The Hospital Management System is designed to help an admin manage hospital-related operations in a simple and organized way. The admin can log in, manage doctor records, view patient information, assign doctors to patients, discharge patients, group patients by family name, relocate patients, schedule appointments, generate reports, and save or load patient records.
